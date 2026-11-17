@@ -89,11 +89,12 @@
     {
       "information": {
         "value": "Pre-processed structural MRI data (MINC format)"
+      }
     },
-	{
-	  "information": {
+    {
+      "information": {
         "value": "Behavioural data",
-		"valueIRI": "http://uri.interlex.org/ilx_0100895"
+        "valueIRI": "http://uri.interlex.org/ilx_0100895"
       }
     }
   ],
